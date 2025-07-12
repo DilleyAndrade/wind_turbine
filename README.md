@@ -123,4 +123,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## 👨‍💻 Autor
 
 Dilley Andrade | Data engineer (81) 98663-2609 | dilleyandrade@gmail.com | linkedin.com/in/dilleyandrade | github.com/DilleyAndrade
-# wind_turbine
