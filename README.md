@@ -47,8 +47,6 @@ O pipeline realiza as seguintes etapas:
 
 ## 📸 Pipeline (DAG)
 
-_Adicione abaixo a imagem da estrutura da DAG no Airflow:_
-
 ![Pipeline DAG](/image_pipeline/pipeline_windturbine.png)
 
 ---
