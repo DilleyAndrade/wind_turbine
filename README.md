@@ -1,4 +1,4 @@
-# 🚀 Wind Turbine Data Pipeline - Apache Airflow
+# 🚀 Wind Turbine Data Pipeline - Apache Airflow Project
 
 Este projeto foi desenvolvido como um pipeline de engenharia de dados utilizando **Apache Airflow**, com o objetivo de monitorar dados de turbinas eólicas, validar a temperatura e armazenar os dados em um banco de dados PostgreSQL. Além disso, o pipeline envia alertas por e-mail em casos de temperatura elevada.
 
